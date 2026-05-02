@@ -17,7 +17,10 @@ Firmware and real photos WIP as this has not been produced as of 5/2/26. I am or
 
 
 ### KLC layout
-![KLC layout]()
+![KLC layout](https://github.com/DashDashUnderscoreDash/Bat-leth-PCB/blob/main/Images/Bat'leth%20KLC.jpg?raw=true)
 
-### PCB image
-![PCB Front]()
+### PCB front image
+![PCB Front](https://github.com/DashDashUnderscoreDash/Bat-leth-PCB/blob/main/Images/Bat'leth%20PCB%20Front%20Render.jpg?raw=true)
+
+### PCB back image
+![PCB Front](https://github.com/DashDashUnderscoreDash/Bat-leth-PCB/blob/main/Images/Bat'leth%20PCB%20Back%20Render.jpg?raw=true)
