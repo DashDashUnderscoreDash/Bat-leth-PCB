@@ -1,6 +1,6 @@
 # **Bat'leth**
 
-## This PCB has not been tested yet but I am ordering PCBs and will update if they work as intended
+## This PCB has not been tested yet but I am ordering PCBs and will update if they work as intended - 5/2/26
 
 Bat'leth is an STM32 10u treadstone unibody split PCB with leafsprings tadpole mounting
 
