@@ -2,6 +2,8 @@
 
 Bat'leth is an STM32 10u treadstone unibody split PCB with leafsprings tadpole mounting
 
+Shoutout Ottimo for suggesting the name/theme based off the shape of the PCB
+
 It has a forced layout and is forced solder
 
 
