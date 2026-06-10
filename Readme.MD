@@ -2,11 +2,16 @@
 
 ### These PCBs are confirmed working as of 6/9/26!
 
-Bat'leth is an STM32 10u treadstone unibody split PCB with leafsprings tadpole mounting
+Bat'leth is:
+- STM32
+- 10u
+- Treadstone layout
+- Unibody split layout
+- Forced layout
+- Forced solder
+- Mounting needs to be handled by the plate
 
 Shoutout [Ottimo](https://github.com/subottimale) for suggesting the name/theme based off the shape of the PCB
-
-It has a forced layout and is forced solder
 
 
 ### In this repo you will find:
