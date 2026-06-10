@@ -1,6 +1,6 @@
 # **Bat'leth**
 
-# These PCBs are confirmed working as of 6/9/26!
+### These PCBs are confirmed working as of 6/9/26!
 
 Bat'leth is an STM32 10u treadstone unibody split PCB with leafsprings tadpole mounting
 
