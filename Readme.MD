@@ -22,6 +22,8 @@ Shoutout [Ottimo](https://github.com/subottimale) for suggesting the name/theme 
 - Edgecuts
 ```
 
+VIAL firmware commissioned by [Moinboards.](https://moinboards.de/) Thank you again so much!
+
 
 ### KLC layout
 ![KLC layout](https://github.com/DashDashUnderscoreDash/Bat-leth-PCB/blob/main/Images/Bat'leth%20KLC.jpg?raw=true)
