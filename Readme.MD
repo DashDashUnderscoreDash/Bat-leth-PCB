@@ -1,6 +1,6 @@
 # **Bat'leth**
 
-### These PCBs are confirmed working as of 6/9/26!
+### These PCBs are fully tested and have had multiple runs - Confirmed working!
 
 Bat'leth is:
 - Integrated STM32F072
