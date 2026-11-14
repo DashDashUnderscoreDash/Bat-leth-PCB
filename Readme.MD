@@ -27,8 +27,8 @@ VIAL firmware commissioned by [Moinboards.](https://moinboards.de/) Thank you ag
 ### KLC layout
 ![KLC layout](https://github.com/DashDashUnderscoreDash/Bat-leth-PCB/blob/main/Images/Bat'leth%20KLC.jpg?raw=true)
 
-### PCB front image
-![PCB Front](https://github.com/DashDashUnderscoreDash/Bat-leth-PCB/blob/main/Images/Bat'leth%20PCB%20Front%20Render.jpg?raw=true)
+### PCB front
+![PCB Front](https://github.com/DashDashUnderscoreDash/Bat-leth-PCB/blob/main/Images/Bat'leth%20Front%20-%20169%20-%201080.png)
 
-### PCB back image
-![PCB Front](https://github.com/DashDashUnderscoreDash/Bat-leth-PCB/blob/main/Images/Bat'leth%20PCB%20Back%20Render.jpg?raw=true)
+### Full build
+![PCB Front](https://github.com/DashDashUnderscoreDash/Bat-leth-PCB/blob/main/Images/Bat'leth%203%20-%20169%20-%201080.png)
